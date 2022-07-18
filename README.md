@@ -23,4 +23,6 @@ Google Net 전체적인구조
 inception Module
 ====================
 
-inception Module이란 1x1, 3x3, 5x5, maxpooling을 병렬적으로 처리하여 연산량을 줄이고 Feature Map을 추출해주는 층. 앞에 Convolution에 이어서 진행
+inception Module이란 1x1, 3x3, 5x5, maxpooling을 병렬적으로 처리하여 연산량을 줄이고(계산되는 양) Feature Map을 추출해주는 층. 앞에 Convolution에 이어서 진행
+
+-inception(3a)
