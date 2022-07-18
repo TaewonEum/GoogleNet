@@ -57,6 +57,11 @@ Google Net에서는 Inception Module with dimension reductions 사용
 
 -drop out(0.4)->linear->softmax
 
+Google Net by Pytorch
+======
+Dataset: STL-10 dataset
+Tool: Jupyter lab
+로 진행
 
 
 
