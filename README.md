@@ -59,9 +59,27 @@ Google Net에서는 Inception Module with dimension reductions 사용
 
 Pytorch에서 Google Net 구현하기
 ======
-Dataset: STL-10 dataset
+Dataset: STL-10 dataset, image size=96x96x3->Google net에 맞게 Resize필요 224x224x3 size로
 
 분석환경: Jupyter lab
+
+분석 Flow
+
+-Transform 객체 생성
+
+-Dataset Load
+
+-Dataset EDA
+
+-Built Model
+
+-Train Model
+
+-Test Model
+
+-Save Model
+
+-Visualization Loss&Accuracy
 
 
 
