@@ -10,6 +10,8 @@ Going deeper with Convolutions
 Google Net 전체적인구조
 =======================
 
+![image](https://user-images.githubusercontent.com/104436260/179454596-ab4a46d9-baf7-4289-8b7c-7b9405fc3aea.png)
+
 -1.input data size(color images) 224x224x3
 
 -2.Convolution(output channels=64,filter size=7, stride=2,padding=3), output=112x112x64
