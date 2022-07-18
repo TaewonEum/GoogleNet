@@ -31,4 +31,4 @@ inception Module이란 1x1, 3x3, 5x5, maxpooling을 병렬적으로 처리하여
 
 Google Net에서는 Inception Module with dimension reductions 사용
 
--inception(3a)
+-inception(3a) input: 28x28x192, #1x1 Conv: 64 channels, #3x3 Conv reduce: 96 channels, 3x3 Conv: 128 channels, #5x5 reduce: 16 channels, 5x5: 32 channels, pooling: 32 channel
