@@ -25,4 +25,8 @@ inception Module
 
 inception Module이란 1x1, 3x3, 5x5, maxpooling을 병렬적으로 처리하여 연산량을 줄이고(계산되는 양) Feature Map을 추출해주는 층. 앞에 Convolution에 이어서 진행
 
+![image](https://user-images.githubusercontent.com/104436260/179454452-ef6b51e1-d645-4053-83a1-ce208fc79e36.png)
+
+Google Net에서는 Inception Module with dimension reductions 사용
+
 -inception(3a)
