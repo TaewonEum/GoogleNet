@@ -109,6 +109,8 @@ Built Model & Train Model & Test Model & Save Model
 
 왼쪽에 1x1 Convolution 부터 define
 
+![image](https://user-images.githubusercontent.com/104436260/179674995-0db254fe-421c-4157-b93c-a64d80bb937a.png)
+
 
 
 
