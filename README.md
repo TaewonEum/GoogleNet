@@ -88,5 +88,9 @@ Transform 객체 생성& Dataset Load
 
 5000개의 데이터, 10개의 Class
 
+![image](https://user-images.githubusercontent.com/104436260/179641913-af87c43c-4f9c-48c2-9f61-759da5aea3a6.png)
 
+Test data set은 8000개
+
+Test data set 확인후 
 
