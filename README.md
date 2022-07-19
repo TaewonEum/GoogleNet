@@ -86,7 +86,7 @@ Transform 객체 생성& Dataset Load
 
 ![image](https://user-images.githubusercontent.com/104436260/179637610-5349a4dc-5165-4b69-872a-3d129090cca9.png)
 
-
+5000개의 데이터, 10개의 Class
 
 
 
