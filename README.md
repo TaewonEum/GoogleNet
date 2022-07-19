@@ -100,7 +100,7 @@ Batch size만큼 16개의 사진출력, Data image size는 Transform에서 Resiz
 
 ![image](https://user-images.githubusercontent.com/104436260/179643426-0e962bae-e4de-40fc-bb6a-5bb03049b727.png)
 
-class별 개수 Count
+class별 개수 Count 데이터 범주간의 불균형을 보이지 않기 때문에 다른 전처리과정을 생략
 
 Built Model & Train Model & Test Model & Save Model
 ======
