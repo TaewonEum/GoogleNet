@@ -92,5 +92,9 @@ Transform 객체 생성& Dataset Load
 
 Test data set은 8000개
 
-Test data set 확인후 
+Test data set 확인후 샘플데이터 시각화
+
+![image](https://user-images.githubusercontent.com/104436260/179642523-e22d50ab-4824-4a84-8f91-00412197f208.png)
+
+Batch size만큼 16개의 사진 
 
