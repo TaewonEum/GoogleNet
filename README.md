@@ -116,4 +116,5 @@ Built Model & Train Model & Test Model & Save Model
 
 정의해준 함수들을 Concat해줌
 
-2.Convolution & Batch Normalization & activation function & Max Pooling
+2.Convolution & Batch Normalization & activation function 
+
