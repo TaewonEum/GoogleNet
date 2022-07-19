@@ -101,3 +101,8 @@ Batch size만큼 16개의 사진출력, Data image size는 Transform에서 Resiz
 ![image](https://user-images.githubusercontent.com/104436260/179643426-0e962bae-e4de-40fc-bb6a-5bb03049b727.png)
 
 class별 개수 Count
+
+Built Model & Train Model & Test Model & Save Model
+======
+
+
