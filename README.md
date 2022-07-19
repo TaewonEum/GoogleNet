@@ -118,3 +118,6 @@ Built Model & Train Model & Test Model & Save Model
 
 2.Convolution & Batch Normalization & activation function 
 
+![image](https://user-images.githubusercontent.com/104436260/179680795-94515f5d-acac-4e4b-8bb4-51523fc6c44b.png)
+
+
