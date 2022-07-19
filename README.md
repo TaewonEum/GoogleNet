@@ -81,7 +81,7 @@ Dataset: STL-10 dataset, image size=96x96x3->Google net에 맞게 Resize필요 2
 
 -Visualization Loss&Accuracy
 
-Transform 객체 생성& Dataset Load
+Transform 객체 생성& Dataset Load & Dataset EDA
 =====
 
 ![image](https://user-images.githubusercontent.com/104436260/179637610-5349a4dc-5165-4b69-872a-3d129090cca9.png)
