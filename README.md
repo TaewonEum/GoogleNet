@@ -112,5 +112,5 @@ Built Model & Train Model & Test Model & Save Model
 ![image](https://user-images.githubusercontent.com/104436260/179674995-0db254fe-421c-4157-b93c-a64d80bb937a.png)
 ![image](https://user-images.githubusercontent.com/104436260/179675261-7edf73c5-f6d1-421e-bbd3-1d975cf63a3c.png)
 
-
+정의해준 함수들을 Concat해줌
 
