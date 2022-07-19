@@ -96,5 +96,5 @@ Test data set 확인후 샘플데이터 시각화
 
 ![image](https://user-images.githubusercontent.com/104436260/179642523-e22d50ab-4824-4a84-8f91-00412197f208.png)
 
-Batch size만큼 16개의 사진 
+Batch size만큼 16개의 사진출력, Data image size는 Transform에서 Resize(224)를 했기 때문에 96->224로 바꿈 Google net input data size가 224x224x3이기 때문에 Resize필수
 
