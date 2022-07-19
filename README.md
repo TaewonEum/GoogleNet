@@ -105,6 +105,10 @@ class별 개수 Count 데이터 범주간의 불균형을 보이지 않기 때�
 Built Model & Train Model & Test Model & Save Model
 ======
 
+![image](https://user-images.githubusercontent.com/104436260/179674809-048b7afa-b914-45b7-a648-00b1ae836f77.png)
+
+왼쪽에 1x1 Convolution 부터 define
+
 
 
 
