@@ -77,9 +77,6 @@ Dataset: STL-10 dataset, image size=96x96x3->Google net에 맞게 Resize필요 2
 
 -Test Model
 
--Save Model
-
--Visualization Loss&Accuracy
 
 Transform 객체 생성& Dataset Load & Dataset EDA
 =====
@@ -102,7 +99,7 @@ Batch size만큼 16개의 사진출력, Data image size는 Transform에서 Resiz
 
 class별 개수 Count 데이터 범주간의 불균형을 보이지 않기 때문에 다른 전처리과정을 생략
 
-Built Model & Train Model & Test Model & Save Model
+Built Model & Train Model 
 ======
 
 1.Inception Block
@@ -116,16 +113,13 @@ Built Model & Train Model & Test Model & Save Model
 
 정의해준 함수들을 Concat해줌
 
+
 2.Convolution & Batch Normalization & activation function 
 
 ![image](https://user-images.githubusercontent.com/104436260/179680795-94515f5d-acac-4e4b-8bb4-51523fc6c44b.png)
 
-3.Auxiliary classifier
 
-![image](https://user-images.githubusercontent.com/104436260/179899613-6b963769-4215-4572-a618-81951493700d.png)
 
-Inception block 중간에 추가할 Auxiliary classifier 정의
-
-4.전체적인 코드 구현
+3.전체적인 코드 구현
 
 ![image](https://user-images.githubusercontent.com/104436260/179899827-212c69ef-25d2-4c6a-8c5f-306ac02c6037.png)
