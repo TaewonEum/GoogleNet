@@ -37,7 +37,7 @@ Google Net에서는 Inception Module with dimension reductions 사용
 
 -Maxpooling 3x3, stride=2-> out put: 14x14x480
 
--Inception(4a) input: 14x14x512, #1x1 Conv: 192 channels, #3x3 Conv reduce: 96 channels, 3x3 Conv: 208 channels, #5x5 reduce: 16 channels, 5x5: 48 channels, pooling: 64 channels, output=14x14x512
+-Inception(4a) input: 14x14x480, #1x1 Conv: 192 channels, #3x3 Conv reduce: 96 channels, 3x3 Conv: 208 channels, #5x5 reduce: 16 channels, 5x5: 48 channels, pooling: 64 channels, output=14x14x512
 
 -Inception(4b) input: 14x14x512, , #1x1 Conv: 160 channels, #3x3 Conv reduce: 112 channels, 3x3 Conv: 224 channels, #5x5 reduce: 24 channels, 5x5: 64 channels, pooling: 64 channels, output=512
 
