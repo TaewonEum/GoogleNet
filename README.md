@@ -125,3 +125,7 @@ Built Model & Train Model & Test Model & Save Model
 ![image](https://user-images.githubusercontent.com/104436260/179899613-6b963769-4215-4572-a618-81951493700d.png)
 
 Inception block 중간에 추가할 Auxiliary classifier 정의
+
+4.전체적인 코드 구현
+
+![image](https://user-images.githubusercontent.com/104436260/179899827-212c69ef-25d2-4c6a-8c5f-306ac02c6037.png)
