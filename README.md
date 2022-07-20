@@ -122,4 +122,3 @@ Built Model & Train Model
 
 3.전체적인 코드 구현
 
-![image](https://user-images.githubusercontent.com/104436260/179899827-212c69ef-25d2-4c6a-8c5f-306ac02c6037.png)
