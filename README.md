@@ -105,7 +105,7 @@ class별 개수 Count 데이터 범주간의 불균형을 보이지 않기 때�
 Built Model & Train Model & Test Model & Save Model
 ======
 
-1.Inception
+1.Inception Block
 
 ![image](https://user-images.githubusercontent.com/104436260/179674809-048b7afa-b914-45b7-a648-00b1ae836f77.png)
 
@@ -119,5 +119,7 @@ Built Model & Train Model & Test Model & Save Model
 2.Convolution & Batch Normalization & activation function 
 
 ![image](https://user-images.githubusercontent.com/104436260/179680795-94515f5d-acac-4e4b-8bb4-51523fc6c44b.png)
+
+3.Auxiliary classifier
 
 
