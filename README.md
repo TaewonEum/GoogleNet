@@ -81,23 +81,7 @@ Dataset: STL-10 dataset, image size=96x96x3->Google net에 맞게 Resize필요 2
 Transform 객체 생성& Dataset Load & Dataset EDA
 =====
 
-![image](https://user-images.githubusercontent.com/104436260/179637610-5349a4dc-5165-4b69-872a-3d129090cca9.png)
 
-5000개의 데이터, 10개의 Class
-
-![image](https://user-images.githubusercontent.com/104436260/179641913-af87c43c-4f9c-48c2-9f61-759da5aea3a6.png)
-
-Test data set은 8000개
-
-Test data set 확인후 샘플데이터 시각화
-
-![image](https://user-images.githubusercontent.com/104436260/179642523-e22d50ab-4824-4a84-8f91-00412197f208.png)
-
-Batch size만큼 16개의 사진출력, Data image size는 Transform에서 Resize(224)를 했기 때문에 96->224로 바꿈 Google net input data size가 224x224x3이기 때문에 Resize필수
-
-![image](https://user-images.githubusercontent.com/104436260/179643426-0e962bae-e4de-40fc-bb6a-5bb03049b727.png)
-
-class별 개수 Count 데이터 범주간의 불균형을 보이지 않기 때문에 다른 전처리과정을 생략
 
 Built Model & Train Model 
 ======
