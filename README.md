@@ -90,6 +90,7 @@ Built Model & Train Model
 
 1.Convolution 정의
 
+![image](https://user-images.githubusercontent.com/104436260/180145491-d1b3232c-98a5-4d99-ac68-ce06f116064d.png)
 
 
 2.Inception Block 정의(Convolution Module사용)
