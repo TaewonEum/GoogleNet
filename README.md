@@ -78,22 +78,5 @@ Dataset: STL-10 dataset, image size=96x96x3->Google net에 맞게 Resize필요 2
 -Test Model
 
 
-Transform 객체 생성& Dataset Load & Dataset EDA
-=====
-
-![image](https://user-images.githubusercontent.com/104436260/180103614-3a0fc17d-7e17-4bea-b0bf-8b5586b7f269.png)
-
-![image](https://user-images.githubusercontent.com/104436260/180103690-e6f28a6e-5d41-48bf-9251-d41e5cd95b01.png)
-
-Built Model & Train Model 
-======
-
-1.Convolution 정의
-
-![image](https://user-images.githubusercontent.com/104436260/180145491-d1b3232c-98a5-4d99-ac68-ce06f116064d.png)
-
-
-2.Inception Block 정의(Convolution Module사용)
-
 
 
