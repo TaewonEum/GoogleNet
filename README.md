@@ -88,6 +88,10 @@ Transform 객체 생성& Dataset Load & Dataset EDA
 Built Model & Train Model 
 ======
 
-1.Inception Block
+1.Convolution 정의
+
+2.Inception Block 정의(Convolution Module사용)
+
+3.
 
 
