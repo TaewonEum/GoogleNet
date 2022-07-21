@@ -90,21 +90,4 @@ Built Model & Train Model
 
 1.Inception Block
 
-![image](https://user-images.githubusercontent.com/104436260/179674809-048b7afa-b914-45b7-a648-00b1ae836f77.png)
-
-왼쪽에 1x1 Convolution 부터 define
-
-![image](https://user-images.githubusercontent.com/104436260/179674995-0db254fe-421c-4157-b93c-a64d80bb937a.png)
-![image](https://user-images.githubusercontent.com/104436260/179675261-7edf73c5-f6d1-421e-bbd3-1d975cf63a3c.png)
-
-정의해준 함수들을 Concat해줌
-
-
-2.Convolution & Batch Normalization & activation function 
-
-![image](https://user-images.githubusercontent.com/104436260/179680795-94515f5d-acac-4e4b-8bb4-51523fc6c44b.png)
-
-
-
-3.전체적인 코드 구현
 
