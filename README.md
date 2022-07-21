@@ -81,6 +81,7 @@ Dataset: STL-10 dataset, image size=96x96x3->Google net에 맞게 Resize필요 2
 Transform 객체 생성& Dataset Load & Dataset EDA
 =====
 
+![image](https://user-images.githubusercontent.com/104436260/180103614-3a0fc17d-7e17-4bea-b0bf-8b5586b7f269.png)
 
 
 Built Model & Train Model 
