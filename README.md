@@ -22,6 +22,8 @@ Google Net 전체적인구조
 
 -5.Maxpooling(3x3,stride=2), output=28x28x192->이미지 절반으로 줄어듬
 
+-5.Convolution(output channel=, filter size=3,stride=1,padding=1), out put
+
 inception Module
 ====================
 
