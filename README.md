@@ -1,4 +1,4 @@
-# GoogleNet~7.20 UPLOADING 
+# GoogleNet~11.30 UPLOADING 
 
 Going deeper with Convolutions
 ======
