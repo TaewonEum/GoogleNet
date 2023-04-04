@@ -59,7 +59,6 @@ Google Net에서는 Inception Module with dimension reductions 사용
 
 -drop out(0.4)->linear->softmax
 
-# Pytorch에서 Google Net 구현함
 
 
 
